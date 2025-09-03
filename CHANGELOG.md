@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2024-12-19
+
+### Repository & Documentation
+* **Added GitHub Repository** - Connected package to official GitHub repository
+* **Fixed Demo GIF Display** - Now shows actual animated demo using GitHub raw URL
+* **Updated Package URLs** - All links now point to the correct GitHub repository
+* **Enhanced Visual Demo** - Users can now see the actual GIF demonstration on pub.dev
+* **Improved Package Metadata** - Better discoverability with proper repository links
+
 ## [1.0.2] - 2024-12-19
 
 ### Documentation

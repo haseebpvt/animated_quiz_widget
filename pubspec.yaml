@@ -1,10 +1,10 @@
 name: animated_quiz_widget
 description: A comprehensive, animated quiz widget package for Flutter with navigation, progress tracking, gradient backgrounds, and customizable styling.
-version: 1.0.2
-homepage: https://github.com/yourusername/animated_quiz_widget
-repository: https://github.com/yourusername/animated_quiz_widget
-issue_tracker: https://github.com/yourusername/animated_quiz_widget/issues
-documentation: https://github.com/yourusername/animated_quiz_widget#readme
+version: 1.0.3
+homepage: https://github.com/haseebpvt/animated_quiz_widget
+repository: https://github.com/haseebpvt/animated_quiz_widget
+issue_tracker: https://github.com/haseebpvt/animated_quiz_widget/issues
+documentation: https://github.com/haseebpvt/animated_quiz_widget#readme
 
 topics:
   - quiz

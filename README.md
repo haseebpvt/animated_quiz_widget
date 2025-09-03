@@ -7,17 +7,17 @@ A comprehensive, animated quiz widget package for Flutter with navigation, progr
 
 ## 🎬 Demo
 
-> **See the animated demo in action!** 
-> 
-> Check out the `example/` folder in this package or visit the [GitHub repository](https://github.com/yourusername/animated_quiz_widget) to see the demo GIF showcasing:
-> - ✨ Smooth slide and fade animations between questions
-> - 🎨 Beautiful gradient backgrounds with completion state changes  
-> - 📊 Embedded progress tracking (2/5 format)
-> - 🚀 Auto-navigation after answer selection
-> - ↩️ Back button functionality
-> - 🎉 Green gradient completion feedback
+![Animated Quiz Widget Demo](https://raw.githubusercontent.com/haseebpvt/animated_quiz_widget/main/demo/demo.gif)
 
-*Run the example app to experience the full interactive demo with all animations and features.*
+*Experience smooth animations, gradient backgrounds, auto-navigation, and completion feedback*
+
+**Features showcased in the demo:**
+- ✨ Smooth slide and fade animations between questions
+- 🎨 Beautiful gradient backgrounds with completion state changes  
+- 📊 Embedded progress tracking (2/5 format)
+- 🚀 Auto-navigation after answer selection
+- ↩️ Back button functionality
+- 🎉 Green gradient completion feedback
 
 ## Features ✨
 
@@ -40,7 +40,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  animated_quiz_widget: ^1.0.1
+  animated_quiz_widget: ^1.0.3
 ```
 
 Then run:
@@ -303,6 +303,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you like this package, please give it a ⭐ on [GitHub](https://github.com/yourusername/animated_quiz_widget) and a 👍 on [pub.dev](https://pub.dev/packages/animated_quiz_widget)!
+If you like this package, please give it a ⭐ on [GitHub](https://github.com/haseebpvt/animated_quiz_widget) and a 👍 on [pub.dev](https://pub.dev/packages/animated_quiz_widget)!
 
-For issues and feature requests, please use the [GitHub issue tracker](https://github.com/yourusername/animated_quiz_widget/issues).
+For issues and feature requests, please use the [GitHub issue tracker](https://github.com/haseebpvt/animated_quiz_widget/issues).
